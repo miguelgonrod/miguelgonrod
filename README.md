@@ -1,7 +1,7 @@
 ### Hi there, I'm Miguel 👋
 
 
-<a href="https://app.daily.dev/tototr"><img src="https://api.daily.dev/devcards/551c44e6add94f47a2696b52eda0eb5d.png?r=eh2" width="400" alt="Miguel Angel Gonzalez Rodriguez's Dev Card"/></a>
+<a href="https://app.daily.dev/tototr"><img src="https://api.daily.dev/devcards/551c44e6add94f47a2696b52eda0eb5d.png?r=eh2" width="200" alt="Miguel Angel Gonzalez Rodriguez's Dev Card"/></a>
 
 
 ## I'm a Student and a Developer
