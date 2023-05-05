@@ -32,5 +32,5 @@
 ---
 
 [twitter]: https://twitter.com/tototr5
-[instagram]: https://instagram.com/miguel_gonzalez24
+[instagram]: https://www.instagram.com/miguel_gonzalez24/
 [linkedin]: https://www.linkedin.com/in/miguel-angel-gonzalez-rodriguez-261514219/
