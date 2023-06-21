@@ -6,6 +6,7 @@
 
 ## I'm a Student and a Developer
 
+- 🧑‍💼 Current Javeriana IEEE Vice Chair
 - 🌱 I’m currently learning Ros 2
 
 ### Connect with me:
