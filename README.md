@@ -1,37 +1,59 @@
-### Hi there, I'm Miguel 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Miguel</h1>
 
+![GitHub followers](https://img.shields.io/github/followers/miguelgonrod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/miguelgonrod?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=miguelgonrod.repoName) <img src="https://komarev.com/ghpvc/?username=miguelgonrod" alt="miguelgonrod" />
 
-<a href="miguelgonrod/miguelgonrod"><img src="https://api.daily.dev/devcards/551c44e6add94f47a2696b52eda0eb5d.png?r=eh2" width="200" alt="miguelgonrod"/></a>
+## About Me :
 
+- 🏢 I am currently **IEEE Javeriana Chairman**
+- 🏢 Former **Ambassador** at [The Construct](https://www.theconstructsim.com/)
+- 🎓 Studying Software Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
+- 🎓 Studying Mechatronics Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
+- 🏡'Lives in **Bogota Colombia**
 
-## I'm a Student and a Developer
+<br>
 
-- 🧑‍💼 Current Javeriana IEEE Vice Chair
-- 🌱 I’m currently learning Ros 2
-- 🤖 I'm currently developing nodes for Pepper robot
-### Connect with me:
+## Connect with me ☕ :
 
-[<img align="left" alt="miguel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="miguel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="miguel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br>
 
-<br />
+[![@miguel_gonzalez24](https://img.icons8.com/fluency/48/000000/instagram-new.png "@miguel_gonzalez24")](https://www.instagram.com/miguel_gonzalez24/) [![@miguelgonrod](https://img.icons8.com/fluency/48/000000/linkedin.png "@miguelgonrod")](https://www.linkedin.com/in/miguelgonrod/) [![@tototr5](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@tototr5")](https://twitter.com/tototr5) [![@miguel_gonzalezr@ieee.org](https://img.icons8.com/fluency/48/000000/apple-mail.png "@miguel_gonzalezr@ieee.org")](miguel_gonzalezr@ieee.org)
 
-### Languages:
+<br>
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="ROS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" />
+## What I am Good at 🧑‍💻 :
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>
 
-<br />
-<br />
+<img src="https://skillicons.dev/icons?i=py,cpp,docker,ros,linux" />
+
+<img src="https://skillicons.dev/icons?i=git,github,c,vim,arduino,bash,vscode" />
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<img src="https://skillicons.dev/icons?i=qt,raspberrypi" />
+
+<br>
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miguelgonrod&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![miguelgonrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelgonrod&theme=tokyonight)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelgonrod&layout=compact&theme=tokyonight)
+
+<br>
+
+## GitHub Thropies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguelgonrod)](https://github.com/miguelgonrod/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![miguelgonrod's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miguelgonrod&hide_border=true&theme=tokyo-night)](https://github.com/miguelgonrod/github-readme-activity-graph)
 
 ---
-
-[twitter]: https://twitter.com/tototr5
-[instagram]: https://www.instagram.com/miguel_gonzalez24/
-[linkedin]: https://www.linkedin.com/in/miguel-angel-gonzalez-rodriguez-261514219/
