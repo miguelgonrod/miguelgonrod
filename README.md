@@ -5,7 +5,6 @@
 ## About Me :
 
 - 🏢 I am currently **IEEE Javeriana Chairman**
-- 🏢 Former **Ambassador** at [The Construct](https://www.theconstructsim.com/)
 - 🎓 Studying Software Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
 - 🎓 Studying Mechatronics Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
 - 🏡'Lives in **Bogota Colombia**
