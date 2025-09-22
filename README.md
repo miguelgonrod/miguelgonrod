@@ -5,7 +5,7 @@
 ## About Me :
 
 - 🏢 I am currently **IEEE Javeriana Chairman**
-- 🎓 Studying Software Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
+- 🎓 Software Engineer from [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
 - 🎓 Studying Mechatronics Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
 - 🏡'Lives in **Bogota Colombia**
 
