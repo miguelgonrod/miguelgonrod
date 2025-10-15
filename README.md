@@ -3,8 +3,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/miguelgonrod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/miguelgonrod?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=miguelgonrod.repoName) <img src="https://komarev.com/ghpvc/?username=miguelgonrod" alt="miguelgonrod" />
 
 ## About Me :
-
-- 🏢 I am currently **IEEE Javeriana Chairman**
+- 🏢 Ekumen Roboticist Software Engineer
+- 🏢 I am currently **IEEE RAS Colombia Student Representative**
 - 🎓 Software Engineer from [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
 - 🎓 Studying Mechatronics Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
 - 🏡'Lives in **Bogota Colombia**
