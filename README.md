@@ -4,9 +4,9 @@
 
 ## About Me :
 - 🏢 Ekumen Roboticist Software Engineer
-- 🏢 I am currently **IEEE RAS Colombia Student Representative**
+  - [OSRF](https://github.com/osrf) Infrastructure PMC mentee
+- 🏢 I am currently **IEEE RAS Colombia Chair**
 - 🎓 Software Engineer from [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
-- 🎓 Studying Mechatronics Engineering at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio)
 - 🏡'Lives in **Bogota Colombia**
 
 <br>
